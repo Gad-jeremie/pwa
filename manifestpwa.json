@@ -1,18 +1,45 @@
 {
-  "short_name": "test app",
-  "name": "test app",
-  "description": "we are testing",
+  "short_name": "Lettres Noires",
+  "name": "Lettres Noires",
+  "description": "pwa",
   "icons": [
      
     {
-      "src": "logo.png",
-      "sizes": "144x144",
+      "src": "logo4850.png",
+      "sizes": "48x50",
       "type": "image/png"
-    }
+    },
+    
+     
+    {
+      "src": "logo7276.png",
+      "sizes": "72x76",
+      "type": "image/png"
+    },
+    
+     
+    {
+      "src": "logo96101.png",
+      "sizes": "96x101",
+      "type": "image/png"
+    },
+    
+     {
+      "src": "logo144151.png",
+      "sizes": "96x101",
+      "type": "image/png"
+    },
+    
+     {
+      "src": "logo196206.png",
+      "sizes": "196x206",
+      "type": "image/png"
+    },
+    
   ],
   "start_url": "index.html",
   "display": "standalone",
   "orientation": "portrait",
-  "theme_color": "#999",
-  "background_color": "#333"
+  "theme_color": "#51260a",
+  "background_color": "#f5f4f4"
 }

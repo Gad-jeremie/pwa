@@ -1,9 +1,16 @@
 {
-  "short_name": "Lettres Noires",
-  "name": "Lettres Noires",
-  "description": "Lettres noires pwa",
+  "short_name": "Tia Deliveries",
+  "name": "Tia Deliveries",
+  "description": "Tia pwa",
   "icons": [
-     
+    
+      {
+      "src": "images/logo38.png",
+      "sizes": "38x38",
+      "type": "image/png"
+    },
+    
+    
     {
       "src": "images/logo48.png",
       "sizes": "48x48",

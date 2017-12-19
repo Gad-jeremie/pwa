@@ -30,10 +30,17 @@
     },
     
     {
-      "src": "images/logo144.png",
-      "sizes": "144x144",
+      "src": "images/logo130.png",
+      "sizes": "130x130",
       "type": "image/png"
     },
+    
+    {
+      "src": "images/logo160.png",
+      "sizes": "160x160",
+      "type": "image/png"
+    },
+    
     
     {
       "src": "images/logo196.png",
@@ -42,8 +49,8 @@
     },
     
      {
-      "src": "images/logo256.png",
-      "sizes": "256x256",
+      "src": "images/logo230.png",
+      "sizes": "230x230",
       "type": "image/png"
     }
   ],
